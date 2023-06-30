@@ -1,0 +1,1524 @@
+{
+  "paquetes": [
+    {
+      "nombre": "esp32",
+      "mantenedor": "Sistemas Espressif",
+      "URL del sitio web": "https://espressif.github.io/arduino-esp32/package_esp32_index.json",
+      "correo electrónico": "hristo@espressif.com",
+      "ayuda": {
+        "en línea": "http://esp32.com"
+      },
+      "plataformas": [
+        {
+          "nombre": "esp32",
+          "arquitectura": "esp32",
+          "versión": "2.0.9",
+          "categoría": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.9/esp32-2.0.9.zip",
+          "archiveFileName": "esp32-2.0.9.zip",
+          "suma de comprobación": "SHA-256:37072185026db3cdc0ed4b6fb12840d7f41571a16c60eec97bec2a4abec8dcee",
+          "tamaño": "278964028",
+          "ayuda": {
+            "en línea": ""
+          },
+          "tableros": [
+            {
+              "name": "Placa de desarrollo ESP32"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-S2"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-S3"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-C3"
+            }
+          ],
+          "herramientasDependencias": [
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32-elf-gcc",
+              "versión": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32s2-elf-gcc",
+              "versión": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32s3-elf-gcc",
+              "versión": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp-elf-gdb",
+              "versión": "11.2_20220823"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "riscv32-esp-elf-gcc",
+              "versión": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "riscv32-esp-elf-gdb",
+              "versión": "11.2_20220823"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "openocd-esp32",
+              "versión": "v0.11.0-esp32-20221026"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "esptool_py",
+              "versión": "4.5.1"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mkspiffs",
+              "versión": "0.2.3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mklittlefs",
+              "versión": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "nombre": "esp32",
+          "arquitectura": "esp32",
+          "versión": "2.0.8",
+          "categoría": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.8/esp32-2.0.8.zip",
+          "archiveFileName": "esp32-2.0.8.zip",
+          "suma de control": "SHA-256:2c5daa3ce7456e752fb8d8a35b0b6b2eb8e494032cba57569ba12dd53eb235f2",
+          "tamaño": "278963636",
+          "ayuda": {
+            "en línea": ""
+          },
+          "tableros": [
+            {
+              "name": "Placa de desarrollo ESP32"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-S2"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-S3"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-C3"
+            }
+          ],
+          "herramientasDependencias": [
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32-elf-gcc",
+              "versión": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32s2-elf-gcc",
+              "versión": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32s3-elf-gcc",
+              "versión": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp-elf-gdb",
+              "versión": "11.2_20220823"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "riscv32-esp-elf-gcc",
+              "versión": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "riscv32-esp-elf-gdb",
+              "versión": "11.2_20220823"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "openocd-esp32",
+              "versión": "v0.11.0-esp32-20221026"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "esptool_py",
+              "versión": "4.5.1"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mkspiffs",
+              "versión": "0.2.3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mklittlefs",
+              "versión": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "nombre": "esp32",
+          "arquitectura": "esp32",
+          "versión": "2.0.7",
+          "categoría": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.7/esp32-2.0.7.zip",
+          "archiveFileName": "esp32-2.0.7.zip",
+          "suma de control": "SHA-256:b5a7a54fca36501d1108413310ec50ae2df655c14c3881325903cde2c7ae5f80",
+          "tamaño": "278966011",
+          "ayuda": {
+            "en línea": ""
+          },
+          "tableros": [
+            {
+              "name": "Placa de desarrollo ESP32"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-S2"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-S3"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-C3"
+            }
+          ],
+          "herramientasDependencias": [
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32-elf-gcc",
+              "versión": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32s2-elf-gcc",
+              "versión": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32s3-elf-gcc",
+              "versión": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "riscv32-esp-elf-gcc",
+              "versión": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "openocd-esp32",
+              "versión": "v0.11.0-esp32-20221026"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "esptool_py",
+              "versión": "4.5"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mkspiffs",
+              "versión": "0.2.3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mklittlefs",
+              "versión": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "nombre": "esp32",
+          "arquitectura": "esp32",
+          "versión": "2.0.6",
+          "categoría": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.6/esp32-2.0.6.zip",
+          "archiveFileName": "esp32-2.0.6.zip",
+          "suma de comprobación": "SHA-256:ea56d300404cc1b5bc15295f29790246b02025c493e0664a6d271164a602a351",
+          "tamaño": "264579419",
+          "ayuda": {
+            "en línea": ""
+          },
+          "tableros": [
+            {
+              "name": "Placa de desarrollo ESP32"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-S2"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-S3"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-C3"
+            }
+          ],
+          "herramientasDependencias": [
+            {
+              "empaquetador": "esp32",
+              "nombre": "riscv32-esp-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2-patch5"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2-patch5"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32s2-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2-patch5"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32s3-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2-patch5"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "esptool_py",
+              "versión": "4.2.1"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "openocd-esp32",
+              "versión": "v0.11.0-esp32-20220706"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mkspiffs",
+              "versión": "0.2.3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mklittlefs",
+              "versión": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "nombre": "esp32",
+          "arquitectura": "esp32",
+          "versión": "2.0.5",
+          "categoría": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.5/esp32-2.0.5.zip",
+          "archiveFileName": "esp32-2.0.5.zip",
+          "suma de control": "SHA-256:c7a1040c5f007a799ef9eb249508e3544c3cf5246f67cdfdc1e80f7d0ca7b41d",
+          "tamaño": "260916106",
+          "ayuda": {
+            "en línea": ""
+          },
+          "tableros": [
+            {
+              "name": "Placa de desarrollo ESP32"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-S2"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-S3"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-C3"
+            }
+          ],
+          "herramientasDependencias": [
+            {
+              "empaquetador": "esp32",
+              "nombre": "riscv32-esp-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32s2-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32s3-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "esptool_py",
+              "versión": "4.2.1"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mkspiffs",
+              "versión": "0.2.3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mklittlefs",
+              "versión": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "nombre": "esp32",
+          "arquitectura": "esp32",
+          "versión": "2.0.4",
+          "categoría": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.4/esp32-2.0.4.zip",
+          "archiveFileName": "esp32-2.0.4.zip",
+          "suma de comprobación": "SHA-256:832609d6f4cd0edf4e471f02e30b7f0e1c86fdd1b950990ef40431e656237214",
+          "tamaño": "259715595",
+          "ayuda": {
+            "en línea": ""
+          },
+          "tableros": [
+            {
+              "name": "Placa de desarrollo ESP32"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-S2"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-S3"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-C3"
+            }
+          ],
+          "herramientasDependencias": [
+            {
+              "empaquetador": "esp32",
+              "nombre": "riscv32-esp-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32s2-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32s3-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "esptool_py",
+              "versión": "3.3.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mkspiffs",
+              "versión": "0.2.3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mklittlefs",
+              "versión": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "nombre": "esp32",
+          "arquitectura": "esp32",
+          "versión": "2.0.3",
+          "categoría": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.3/esp32-2.0.3.zip",
+          "archiveFileName": "esp32-2.0.3.zip",
+          "suma de control": "SHA-256:7a44ab32a2bfe18a84fd1f75aa1921dae92c6b4a74a2eb4d0c7d479b34996f3b",
+          "tamaño": "246542267",
+          "ayuda": {
+            "en línea": ""
+          },
+          "tableros": [
+            {
+              "name": "Placa de desarrollo ESP32"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-S2"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-S3"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-C3"
+            }
+          ],
+          "herramientasDependencias": [
+            {
+              "empaquetador": "esp32",
+              "nombre": "riscv32-esp-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32s2-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32s3-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "esptool_py",
+              "versión": "3.3.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mkspiffs",
+              "versión": "0.2.3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mklittlefs",
+              "versión": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "nombre": "esp32",
+          "arquitectura": "esp32",
+          "versión": "2.0.2",
+          "categoría": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.2/esp32-2.0.2.zip",
+          "archiveFileName": "esp32-2.0.2.zip",
+          "suma de comprobación": "SHA-256:e139f22aab9cbe8109815de0be110e58a8f1d6c90a2e263eb0b0d646b53a5a33",
+          "tamaño": "151846438",
+          "ayuda": {
+            "en línea": ""
+          },
+          "tableros": [
+            {
+              "name": "Placa de desarrollo ESP32"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-S2"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-C3"
+            }
+          ],
+          "herramientasDependencias": [
+            {
+              "empaquetador": "esp32",
+              "nombre": "riscv32-esp-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32s2-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "esptool_py",
+              "versión": "3.1.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mkspiffs",
+              "versión": "0.2.3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mklittlefs",
+              "versión": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "nombre": "esp32",
+          "arquitectura": "esp32",
+          "versión": "2.0.1",
+          "categoría": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.1/esp32-2.0.1.zip",
+          "archiveFileName": "esp32-2.0.1.zip",
+          "suma de control": "SHA-256:3a7cd46ba47990dd37fbe02b7f0a910dd5cc7af1d190350b69d320ed36cd6b41",
+          "tamaño": "148976301",
+          "ayuda": {
+            "en línea": ""
+          },
+          "tableros": [
+            {
+              "name": "Placa de desarrollo ESP32"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-S2"
+            },
+            {
+              "name": "Placa de desarrollo ESP32-C3"
+            }
+          ],
+          "herramientasDependencias": [
+            {
+              "empaquetador": "esp32",
+              "nombre": "riscv32-esp-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32s2-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r2"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "esptool_py",
+              "versión": "3.1.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mkspiffs",
+              "versión": "0.2.3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mklittlefs",
+              "versión": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "nombre": "esp32",
+          "arquitectura": "esp32",
+          "versión": "2.0.0",
+          "categoría": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.0/esp32-2.0.0.zip",
+          "archiveFileName": "esp32-2.0.0.zip",
+          "suma de control": "SHA-256:10e1c42dbf11d2359259a80008f13f37d2f9bb8f49a25d34d387cf4531052cbc",
+          "tamaño": "139313137",
+          "ayuda": {
+            "en línea": ""
+          },
+          "tableros": [
+            {
+              "name": "Módulo de desarrollo ESP32"
+            },
+            {
+              "nombre": "WEMOS LoLin32"
+            },
+            {
+              "nombre": "WEMOS D1 MINI ESP32"
+            }
+          ],
+          "herramientasDependencias": [
+            {
+              "empaquetador": "esp32",
+              "nombre": "riscv32-esp-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r1"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r1"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32s2-elf-gcc",
+              "versión": "gcc8_4_0-esp-2021r1"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "esptool_py",
+              "versión": "3.1.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mkspiffs",
+              "versión": "0.2.3"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mklittlefs",
+              "versión": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "nombre": "esp32",
+          "arquitectura": "esp32",
+          "versión": "1.0.6",
+          "categoría": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.6/esp32-1.0.6.zip",
+          "archiveFileName": "esp32-1.0.6.zip",
+          "suma de control": "SHA-256:982da9aaa181b6cb9c692dd4c9622b022ecc0d1e3aa0c5b70428ccc3c1b4556b",
+          "tamaño": "51126662",
+          "ayuda": {
+            "en línea": ""
+          },
+          "tableros": [
+            {
+              "name": "Módulo de desarrollo ESP32"
+            },
+            {
+              "nombre": "WEMOS LoLin32"
+            },
+            {
+              "nombre": "WEMOS D1 MINI ESP32"
+            }
+          ],
+          "herramientasDependencias": [
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32-elf-gcc",
+              "versión": "1.22.0-97-gc752ad5-5.2.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "esptool_py",
+              "versión": "3.0.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mkspiffs",
+              "versión": "0.2.3"
+            }
+          ]
+        },
+        {
+          "nombre": "esp32",
+          "arquitectura": "esp32",
+          "versión": "1.0.5",
+          "categoría": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.5/esp32-1.0.5.zip",
+          "archiveFileName": "esp32-1.0.5.zip",
+          "suma de control": "SHA-256:dc5c6c72a127b3171c654f3c3476911d3c2b0ab21affdb7b0f0756c105ca71a7",
+          "tamaño": "49552769",
+          "ayuda": {
+            "en línea": ""
+          },
+          "tableros": [
+            {
+              "name": "Módulo de desarrollo ESP32"
+            },
+            {
+              "nombre": "WEMOS LoLin32"
+            },
+            {
+              "nombre": "WEMOS D1 MINI ESP32"
+            }
+          ],
+          "herramientasDependencias": [
+            {
+              "empaquetador": "esp32",
+              "nombre": "xtensa-esp32-elf-gcc",
+              "versión": "1.22.0-97-gc752ad5-5.2.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "esptool_py",
+              "versión": "3.0.0"
+            },
+            {
+              "empaquetador": "esp32",
+              "nombre": "mkspiffs",
+              "versión": "0.2.3"
+            }
+          ]
+        },
+        {
+          "categoría": "ESP32",
+          "nombre": "esp32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.4/esp32-1.0.4.zip",
+          "suma de control": "SHA-256:d9108bf873933c4e48a3ca401fb51e41b2cc3f98d7c9b9be9881e7ca34bf0efe",
+          "ayuda": {
+            "en línea": ""
+          },
+          "versión": "1.0.4",
+          "arquitectura": "esp32",
+          "archiveFileName": "esp32-1.0.4.zip",
+          "tableros": [
+            {
+              "name": "Módulo de desarrollo ESP32"
+            },
+            {
+              "nombre": "WEMOS LoLin32"
+            },
+            {
+              "nombre": "WEMOS D1 MINI ESP32"
+            }
+          ],
+          "herramientasDependencias": [
+            {
+              "empaquetador": "esp32",
+              "versión": "1.22.0-80-g6c4433a-5.2.0",
+              "nombre": "xtensa-esp32-elf-gcc"
+            },
+            {
+              "empaquetador": "esp32",
+              "versión": "2.6.1",
+              "nombre": "esptool_py"
+            },
+            {
+              "empaquetador": "esp32",
+              "versión": "0.2.3",
+              "nombre": "mkspiffs"
+            }
+          ],
+          "tamaño": "36853332"
+        },
+        {
+          "categoría": "ESP32",
+          "nombre": "esp32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.3/esp32-1.0.3.zip",
+          "suma de comprobación": "SHA-256:19a30ece8a3ab26ab420c3d5531a9a1c51cb04e421a4f1d86dc072c209060436",
+          "ayuda": {
+            "en línea": ""
+          },
+          "versión": "1.0.3",
+          "arquitectura": "esp32",
+          "archiveFileName": "esp32-1.0.3.zip",
+          "tableros": [
+            {
+              "name": "Módulo de desarrollo ESP32"
+            },
+            {
+              "nombre": "WEMOS LoLin32"
+            },
+            {
+              "nombre": "WEMOS D1 MINI ESP32"
+            }
+          ],
+          "herramientasDependencias": [
+            {
+              "empaquetador": "esp32",
+              "versión": "1.22.0-80-g6c4433a-5.2.0",
+              "nombre": "xtensa-esp32-elf-gcc"
+            },
+            {
+              "empaquetador": "esp32",
+              "versión": "2.6.1",
+              "nombre": "esptool_py"
+            },
+            {
+              "empaquetador": "esp32",
+              "versión": "0.2.3",
+              "nombre": "mkspiffs"
+            }
+          ],
+          "tamaño": "36811826"
+        },
+        {
+          "categoría": "ESP32",
+          "ayuda": {
+            "en línea": ""
+          },
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.2/esp32-1.0.2.zip",
+          "suma de control": "SHA-256:c3a5a5050705d41ab205d25a7399e921057b754ef8f883419f58c0c7f08df11c",
+          "versión": "1.0.2",
+          "arquitectura": "esp32",
+          "archiveFileName": "esp32-1.0.2.zip",
+          "tableros": [
+            {
+              "name": "Módulo de desarrollo ESP32"
+            },
+            {
+              "nombre": "WEMOS LoLin32"
+            }
+          ],
+          "tamaño": "31174160",
+          "herramientasDependencias": [
+            {
+              "empaquetador": "esp32",
+              "versión": "1.22.0-80-g6c4433a-5.2.0",
+              "nombre": "xtensa-esp32-elf-gcc"
+            },
+            {
+              "empaquetador": "esp32",
+              "versión": "2.6.1",
+              "nombre": "esptool_py"
+            },
+            {
+              "empaquetador": "esp32",
+              "versión": "0.2.3",
+              "nombre": "mkspiffs"
+            }
+          ],
+          "nombre": "esp32"
+        },
+        {
+          "categoría": "ESP32",
+          "ayuda": {
+            "en línea": ""
+          },
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.1/esp32-1.0.1.zip",
+          "suma de control": "SHA-256:1a7fa2f9bb0b6b5a20dfea227497f4851dc8b886caf7ecb998f745589c97ed34",
+          "nombre": "esp32",
+          "versión": "1.0.1",
+          "arquitectura": "esp32",
+          "archiveFileName": "esp32-1.0.1.zip",
+          "tamaño": "31273425",
+          "herramientasDependencias": [
+            {
+              "empaquetador": "esp32",
+              "versión": "1.22.0-80-g6c4433a-5.2.0",
+              "nombre": "xtensa-esp32-elf-gcc"
+            },
+            {
+              "empaquetador": "esp32",
+              "versión": "2.6.0",
+              "nombre": "esptool_py"
+            },
+            {
+              "empaquetador": "esp32",
+              "versión": "0.2.3",
+              "nombre": "mkspiffs"
+            }
+          ],
+          "tableros": [
+            {
+              "name": "Módulo de desarrollo ESP32"
+            },
+            {
+              "nombre": "WEMOS LoLin32"
+            }
+          ]
+        },
+        {
+          "categoría": "ESP32",
+          "ayuda": {
+            "en línea": ""
+          },
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.0/esp32-1.0.0.zip",
+          "suma de control": "SHA-256:94d586174f103e2014be590ab307c5cdda6fa2ec70204c7f121882ace5e05c80",
+          "nombre": "esp32",
+          "versión": "1.0.0",
+          "arquitectura": "esp32",
+          "archiveFileName": "esp32-1.0.0.zip",
+          "tamaño": "26381887",
+          "herramientasDependencias": [
+            {
+              "empaquetador": "esp32",
+              "versión": "1.22.0-80-g6c4433a-5.2.0",
+              "nombre": "xtensa-esp32-elf-gcc"
+            },
+            {
+              "empaquetador": "esp32",
+              "versión": "2.3.1",
+              "nombre": "esptool"
+            },
+            {
+              "empaquetador": "esp32",
+              "versión": "0.2.3",
+              "nombre": "mkspiffs"
+            }
+          ],
+          "tableros": [
+            {
+              "name": "Módulo de desarrollo ESP32"
+            },
+            {
+              "nombre": "WEMOS LoLin32"
+            }
+          ]
+        }
+      ],
+      "herramientas": [
+        {
+          "nombre": "xtensa-esp32-elf-gcc",
+          "versión": "esp-2021r2-patch5-8.4.0",
+          "sistemas": [
+            {
+              "anfitrión": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-linux-amd64.tar.gz ",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-linux-amd64.tar.gz",
+              "suma de control": "SHA-256:8ef14e0409c2011b41e504a30f70d3e35287313a795d1f2462ad2cd0e2052d37",
+              "tamaño": "94397702"
+            },
+            {
+              "anfitrión": "aarch64-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-linux-arm64.tar.gz ",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-linux-arm64.tar.gz",
+              "suma de control": "SHA-256:e7d217ac2ef52c746a41f8647840b2717edcd8afc15f081bc1c4505e10a189b7",
+              "tamaño": "90684219"
+            },
+            {
+              "anfitrión": "brazo-linux-gnueabihf",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-linux-armel.tar.gz ",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-linux-armel.tar.gz",
+              "suma de control": "SHA-256:ea6631f8a5105ae90d7fc462c10ed4f9049924ea8c2f9391d90b339d5f881dac",
+              "tamaño": "89954866"
+            },
+            {
+              "anfitrión": "i686-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-linux-i686.tar.gz ",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-linux-i686.tar.gz",
+              "suma de comprobación": "SHA-256:ecb90af9cede0982672234da0b1bd7b7f76eadde60aa5c82eefdf37d64ffe49f",
+              "tamaño": "96354023"
+            },
+            {
+              "anfitrión": "x86_64-apple-darwin",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-macos.tar.gz",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-macos.tar.gz",
+              "suma de control": "SHA-256:19af109fda024a3a4c989f7ccaa104f9b1b74cfd6c9363e730bb8cb9b50d5dc4",
+              "tamaño": "101712946"
+            },
+            {
+              "anfitrión": "arm64-apple-darwin",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-macos-arm64.tar.gz ",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-macos-arm64.tar.gz",
+              "suma de comprobación": "SHA-256:b14189772d70a96813895fff7731d0f2fec0c825cfc02e002d6d91a0cc4b6b1d",
+              "tamaño": "93104016"
+            },
+            {
+              "anfitrión": "i686-mingw32",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-win32.zip",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-win32.zip",
+              "suma de control": "SHA-256:9851c2cfa355e1fad8abfb643a1c945d27385b1851f3ae468915ea78fcbec940",
+              "tamaño": "118610020"
+            },
+            {
+              "anfitrión": "x86_64-mingw32",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-win64.zip",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-win64.zip",
+              "suma de control": "SHA-256:a328b3c55631846241bbe7999a309b20b797c8dc50b6e8dccf463e66a2da5fb4",
+              "tamaño": "121846722"
+            }
+          ]
+        },
+        {
+          "nombre": "xtensa-esp32-elf-gcc",
+          "versión": "gcc8_4_0-esp-2021r2-patch5",
+          "sistemas": [
+            {
+              "anfitrión": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-linux-amd64.tar.gz ",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-linux-amd64.tar.gz",
+              "suma de control": "SHA-256:8ef14e0409c2011b41e504a30f70d3e35287313a795d1f2462ad2cd0e2052d37",
+              "tamaño": "94397702"
+            },
+            {
+              "anfitrión": "aarch64-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-linux-arm64.tar.gz ",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-linux-arm64.tar.gz",
+              "suma de control": "SHA-256:e7d217ac2ef52c746a41f8647840b2717edcd8afc15f081bc1c4505e10a189b7",
+              "tamaño": "90684219"
+            },
+            {
+              "anfitrión": "brazo-linux-gnueabihf",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-linux-armel.tar.gz ",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-linux-armel.tar.gz",
+              "suma de control": "SHA-256:ea6631f8a5105ae90d7fc462c10ed4f9049924ea8c2f9391d90b339d5f881dac",
+              "tamaño": "89954866"
+            },
+            {
+              "anfitrión": "i686-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-linux-i686.tar.gz ",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-linux-i686.tar.gz",
+              "suma de comprobación": "SHA-256:ecb90af9cede0982672234da0b1bd7b7f76eadde60aa5c82eefdf37d64ffe49f",
+              "tamaño": "96354023"
+            },
+            {
+              "anfitrión": "x86_64-apple-darwin",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-macos.tar.gz",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-macos.tar.gz",
+              "suma de control": "SHA-256:19af109fda024a3a4c989f7ccaa104f9b1b74cfd6c9363e730bb8cb9b50d5dc4",
+              "tamaño": "101712946"
+            },
+            {
+              "anfitrión": "i686-mingw32",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-win32.zip",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-win32.zip",
+              "suma de control": "SHA-256:9851c2cfa355e1fad8abfb643a1c945d27385b1851f3ae468915ea78fcbec940",
+              "tamaño": "118610020"
+            },
+            {
+              "anfitrión": "x86_64-mingw32",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-win64.zip",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch5-win64.zip",
+              "suma de control": "SHA-256:a328b3c55631846241bbe7999a309b20b797c8dc50b6e8dccf463e66a2da5fb4",
+              "tamaño": "121846722"
+            }
+          ]
+        },
+        {
+          "nombre": "xtensa-esp32-elf-gcc",
+          "versión": "gcc8_4_0-esp-2021r2-patch3",
+          "sistemas": [
+            {
+              "anfitrión": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch3/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch3-linux-amd64.tar.gz ",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch3-linux-amd64.tar.gz",
+              "suma de control": "SHA-256:9edd1e77627688f435561922d14299f6a0021ba1f6ff67e472e1108695a69e53",
+              "tamaño": "90569312"
+            },
+            {
+              "anfitrión": "aarch64-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch3/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch3-linux-arm64.tar.gz ",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch3-linux-arm64.tar.gz",
+              "suma de control": "SHA-256:3a21a3e310e6b1e7d7bed1f3e59698a5bd29ed3a5ca79fba9265d7dd2f1e0cd2",
+              "tamaño": "86838362"
+            },
+            {
+              "anfitrión": "brazo-linux-gnueabihf",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch3/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch3-linux-armel.tar.gz ",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch3-linux-armel.tar.gz",
+              "suma de control": "SHA-256:89313c4c1d8db1b01624f31b58bf3fbe527160569828ac4301e9daa75c52716d",
+              "tamaño": "86187540"
+            },
+            {
+              "anfitrión": "i686-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch3/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch3-linux-i686.tar.gz ",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch3-linux-i686.tar.gz",
+              "suma de control": "SHA-256:a1f165a836f175daa6fbfde4ca99cb93b377f021fbfc41f79a700bd4df965a9a",
+              "tamaño": "92580267"
+            },
+            {
+              "anfitrión": "x86_64-apple-darwin",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch3/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch3-macos.tar.gz",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch3-macos.tar.gz",
+              "suma de control": "SHA-256:dda3d7a43efd995d9a51d5a5741626dbf915df46078aef0b5aea7163ac82398b",
+              "tamaño": "97807647"
+            },
+            {
+              "anfitrión": "i686-mingw32",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch3/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch3-win32.zip",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch3-win32.zip",
+              "suma de comprobación": "SHA-256:fd147592928ef2d7092ba34b01ecd776fe26ba3d7e3f9b6b215a3b46e981ee2c",
+              "tamaño": "116464819"
+            },
+            {
+              "anfitrión": "x86_64-mingw32",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch3/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch3-win64.zip",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-patch3-win64.zip",
+              "suma de comprobación": "SHA-256:9395315c07de0b9f05c9a6616ba1f05e76ab651053f2f40479163a8e03cfa830",
+              "tamaño": "119511910"
+            }
+          ]
+        },
+        {
+          "nombre": "xtensa-esp32-elf-gcc",
+          "versión": "gcc8_4_0-esp-2021r2",
+          "sistemas": [
+            {
+              "anfitrión": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-linux-amd64.tar.gz",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-linux-amd64.tar.gz",
+              "suma de control": "SHA-256:3eb3d68b27fa6ba5af6f88da21cb8face9be0094daaa8960793cfe570ab785ff",
+              "tamaño": "90565318"
+            },
+            {
+              "anfitrión": "aarch64-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-linux-arm64.tar.gz",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-linux-arm64.tar.gz",
+              "suma de control": "SHA-256:aa534be24e45e06b7080a6a3bb8cd9e3cfb818f5f8bce2244d7cfb5e91336541",
+              "tamaño": "86860292"
+            },
+            {
+              "anfitrión": "brazo-linux-gnueabihf",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-linux-armel.tar.gz",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-linux-armel.tar.gz",
+              "suma de control": "SHA-256:f0e49ce06fe7833ff5d76961dc2dac5449d320f823bb8c05a302cf85a3a6eb04",
+              "tamaño": "86183421"
+            },
+            {
+              "anfitrión": "i686-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-linux-i686.tar.gz",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-linux-i686.tar.gz",
+              "suma de control": "SHA-256:06de09b74652de43e5b22db3b7fc992623044baa75e9faaab68317a986715ba3",
+              "tamaño": "92582250"
+            },
+            {
+              "anfitrión": "x86_64-apple-darwin",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-macos.tar.gz",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-macos.tar.gz",
+              "suma de control": "SHA-256:96443f69c8569417c780ee749d91ef33cffe22153fffa30a0fbf12107d87381b",
+              "tamaño": "97808961"
+            },
+            {
+              "anfitrión": "i686-mingw32",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-win32.zip",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-win32.zip",
+              "suma de control": "SHA-256:076a4171bdc33e5ced3952efffb233d70263dfa760e636704050597a9edf61db",
+              "tamaño": "112578260"
+            },
+            {
+              "anfitrión": "x86_64-mingw32",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2/xtensa-esp32-elf-gcc8_4_0-esp-2021r2-win64.zip",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r2-win64.zip",
+              "suma de control": "SHA-256:c35b7998f7f503e0cb22055d1e279ae14b6b0e09bb3ff3846b17d552ece9c247",
+              "tamaño": "115278695"
+            }
+          ]
+        },
+        {
+          "nombre": "xtensa-esp32-elf-gcc",
+          "versión": "gcc8_4_0-esp-2021r1",
+          "sistemas": [
+            {
+              "anfitrión": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r1/xtensa-esp32-elf-gcc8_4_0-esp-2021r1-linux-amd64.tar.gz",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r1-linux-amd64.tar.gz",
+              "suma de control": "SHA-256:44a0b467b9d2b759ab48b2f27aed684581f33c96e2842992781c4e045992c5b0",
+              "tamaño": "86361217"
+            },
+            {
+              "anfitrión": "brazo-linux-gnueabihf",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r1/xtensa-esp32-elf-gcc8_4_0-esp-2021r1-linux-armel.tar.gz",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r1-linux-armel.tar.gz",
+              "suma de control": "SHA-256:fdacdb2a7bbf6293bcafda9b52463a4da8a2f3b7e1df9f83d35ff9d1efa22012",
+              "tamaño": "84520407"
+            },
+            {
+              "anfitrión": "i686-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r1/xtensa-esp32-elf-gcc8_4_0-esp-2021r1-linux-i686.tar.gz",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r1-linux-i686.tar.gz",
+              "suma de control": "SHA-256:e2024096492dfaa50fc6ac336cd8faa2e395e8cebb617753eab0b5f16d3dd0dc",
+              "tamaño": "88375391"
+            },
+            {
+              "anfitrión": "x86_64-apple-darwin",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r1/xtensa-esp32-elf-gcc8_4_0-esp-2021r1-macos.tar.gz",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r1-macos.tar.gz",
+              "suma de comprobación": "SHA-256:7bbc6a2b94f009cd8a3351b9c7acf7a5caa1c4d3700500ead60f84965386a61b",
+              "tamaño": "93357296"
+            },
+            {
+              "anfitrión": "i686-mingw32",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r1/xtensa-esp32-elf-gcc8_4_0-esp-2021r1-win32.zip",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r1-win32.zip",
+              "suma de control": "SHA-256:e4f9fdda192abfc9807e3e7fcd6e9fea30c1a0cf3f3c5a5c961b5114fc8c9b7e",
+              "tamaño": "105603626"
+            }
+          ]
+        },
+        {
+          "nombre": "xtensa-esp32-elf-gcc",
+          "versión": "1.22.0-97-gc752ad5-5.2.0",
+          "sistemas": [
+            {
+              "anfitrión": "i686-mingw32",
+              "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.5-rc5/xtensa-esp32-elf-win32-1.22.0-97-gc752ad5-5.2.0.zip ",
+              "archiveFileName": "xtensa-esp32-elf-win32-1.22.0-97-gc752ad5-5.2.0.zip",
+              "suma de control": "SHA-256:80571e5d5a63494f4fa758bb9d8fb882ba4059853a8c412a84d232dc1c1400e6",
+              "tamaño": "125747216"
+            },
+            {
+              "anfitrión": "x86_64-apple-darwin",
+              "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.5-rc5/xtensa-esp32-elf-macos-1.22.0-97-gc752ad5-5.2.0.tar .gz",
+              "archiveFileName": "xtensa-esp32-elf-macos-1.22.0-97-gc752ad5-5.2.0.tar.gz",
+              "suma de control": "SHA-256:b1ce39a563ae359cf363fb7d8ee80cb1e5226fda83188203cff60f16f55e33ef",
+              "tamaño": "50525386"
+            },
+            {
+              "anfitrión": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.5-rc5/xtensa-esp32-elf-linux64-1.22.0-97-gc752ad5-5.2.0.tar .gz",
+              "archiveFileName": "xtensa-esp32-elf-linux64-1.22.0-97-gc752ad5-5.2.0.tar.gz",
+              "suma de comprobación": "SHA-256:96f5f6e7611a0ed1dc47048c54c3113fc5cebffbf0ba90d8bfcd497afc7ef9f3",
+              "tamaño": "44225380"
+            },
+            {
+              "anfitrión": "i686-pc-linux-gnu",
+              "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.5-rc5/xtensa-esp32-elf-linux32-1.22.0-97-gc752ad5-5.2.0.tar .gz",
+              "archiveFileName": "xtensa-esp32-elf-linux32-1.22.0-97-gc752ad5-5.2.0.tar.gz",
+              "suma de control": "SHA-256:8094a2c30b474e99ce64dd0ba8f310c4614eb3b3cac884a3aea0fd5f565af119",
+              "tamaño": "45575521"
+            },
+            {
+              "anfitrión": "brazo-linux-gnueabihf",
+              "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.5-rc5/xtensa-esp32-elf-linux-armel-1.22.0-97-gc752ad5-5.2.0 .tar.gz",
+              "archiveFileName": "xtensa-esp32-elf-linux-armel-1.22.0-97-gc752ad5-5.2.0.tar.gz",
+              "suma de control": "SHA-256:d70d550f88448fa476b29fa50ef5502ab497a16ac7fa9ca24c6d0a39bb1e681e",
+              "tamaño": "50657803"
+            },
+            {
+              "anfitrión": "aarch64-linux-gnu",
+              "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.5-rc5/xtensa-esp32-elf-linux-armel-1.22.0-97-gc752ad5-5.2.0 .tar.gz",
+              "archiveFileName": "xtensa-esp32-elf-linux-armel-1.22.0-97-gc752ad5-5.2.0.tar.gz",
+              "suma de control": "SHA-256:d70d550f88448fa476b29fa50ef5502ab497a16ac7fa9ca24c6d0a39bb1e681e",
+              "tamaño": "50657803"
+            }
+          ]
+        },
+        {
+          "versión": "1.22.0-80-g6c4433a-5.2.0",
+          "nombre": "xtensa-esp32-elf-gcc",
+          "sistemas": [
+            {
+              "url": "https://dl.espressif.com/dl/xtensa-esp32-elf-win32-1.22.0-80-g6c4433a-5.2.0.zip",
+              "suma de control": "SHA-256:f217fccbeaaa8c92db239036e0d6202458de4488b954a3a38f35ac2ec48058a4",
+              "anfitrión": "i686-mingw32",
+              "archiveFileName": "xtensa-esp32-elf-win32-1.22.0-80-g6c4433a-5.2.0.zip",
+              "tamaño": "125719261"
+            },
+            {
+              "url": "https://dl.espressif.com/dl/xtensa-esp32-elf-osx-1.22.0-80-g6c4433a-5.2.0.tar.gz",
+              "suma de comprobación": "SHA-256:a4307a97945d2f2f2745f415fbe80d727750e19f91f9a1e7e2f8a6065652f9da",
+              "anfitrión": "x86_64-apple-darwin",
+              "archiveFileName": "xtensa-esp32-elf-osx-1.22.0-80-g6c4433a-5.2.0.tar.gz",
+              "tamaño": "46517409"
+            },
+            {
+              "url": "https://dl.espressif.com/dl/xtensa-esp32-elf-linux64-1.22.0-80-g6c4433a-5.2.0.tar.gz",
+              "suma de control": "SHA-256:3fe96c151d46c1d4e5edc6ed690851b8e53634041114bad04729bc16b0445156",
+              "anfitrión": "x86_64-pc-linux-gnu",
+              "archiveFileName": "xtensa-esp32-elf-linux64-1.22.0-80-g6c4433a-5.2.0.tar.gz",
+              "tamaño": "44219107"
+            },
+            {
+              "url": "https://dl.espressif.com/dl/xtensa-esp32-elf-linux32-1.22.0-80-g6c4433a-5.2.0.tar.gz",
+              "suma de comprobación": "SHA-256:b4055695ffc2dfc0bcb6dafdc2572a6e01151c4179ef5fa972b3fcb2183eb155",
+              "anfitrión": "i686-pc-linux-gnu",
+              "archiveFileName": "xtensa-esp32-elf-linux32-1.22.0-80-g6c4433a-5.2.0.tar.gz",
+              "tamaño": "45566336"
+            },
+            {
+              "url": "https://dl.espressif.com/dl/xtensa-esp32-elf-linux-armel-1.22.0-87-gb57bad3-5.2.0.tar.gz",
+              "suma de control": "SHA-256:9c68c87bb23b1256dc0a1859b515946763e5292dcab4a4159a52fae5618ce861",
+              "anfitrión": "brazo-linux-gnueabihf",
+              "archiveFileName": "xtensa-esp32-elf-linux-armel-1.22.0-87-gb57bad3-5.2.0.tar.gz",
+              "tamaño": "50655584"
+            }
+          ]
+        },
+        {
+          "nombre": "xtensa-esp32s2-elf-gcc",
+          "versión": "esp-2021r2-patch5-8.4.0",
+          "sistemas": [
+            {
+              "anfitrión": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-linux-amd64.tar.gz ",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-linux-amd64.tar.gz",
+              "suma de control": "SHA-256:19c77bd91fefab7c8c40a6334f9b985e2d9a1c7fac6d424b692110930dd3682f",
+              "tamaño": "67849099"
+            },
+            {
+              "anfitrión": "aarch64-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-linux-arm64.tar.gz ",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-linux-arm64.tar.gz",
+              "suma de control": "SHA-256:bdcd24676ef2a65b670ca9e0a01768ece47f4dfcfb545a3307f76a054c33b522",
+              "tamaño": "64154532"
+            },
+            {
+              "anfitrión": "brazo-linux-gnueabihf",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-linux-armel.tar.gz ",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-linux-armel.tar.gz",
+              "suma de control": "SHA-256:b26723b6ce1c35b90f204eb39e5ab06a6f80fb7895f000e16b6962e4c176ae32",
+              "tamaño": "63448105"
+            },
+            {
+              "anfitrión": "i686-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-linux-i686.tar.gz ",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-linux-i686.tar.gz",
+              "suma de control": "SHA-256:da3b5c45e4997d14269df1814c92dd7004902bb810608341bc3819c3e506fa0b",
+              "tamaño": "69656104"
+            },
+            {
+              "anfitrión": "x86_64-apple-darwin",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-macos.tar.gz",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-macos.tar.gz",
+              "suma de control": "SHA-256:8eb63745b44083edef7cc6fdf3b06999f576b75134bc5e8b0ef881ca439b72d7",
+              "tamaño": "75154138"
+            },
+            {
+              "anfitrión": "arm64-apple-darwin",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-macos-arm64.tar.gz ",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-macos-arm64.tar.gz",
+              "suma de control": "SHA-256:4cd38d6ec31076c0aa083f62ab84ab5c33aa07fafd0af61366186e5f553aa008",
+              "tamaño": "66457613"
+            },
+            {
+              "anfitrión": "i686-mingw32",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-win32.zip",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-win32.zip",
+              "suma de control": "SHA-256:c758062295804b082fbd77fcd59a356f62d4e76372aaa29589cc871603309cba",
+              "tamaño": "82338511"
+            },
+            {
+              "anfitrión": "x86_64-mingw32",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-win64.zip",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-win64.zip",
+              "suma de control": "SHA-256:1c1e168ff8bc460a9719f3b216d3c1125d29040389786d738244838499362c74",
+              "tamaño": "85579252"
+            }
+          ]
+        },
+        {
+          "nombre": "xtensa-esp32s2-elf-gcc",
+          "versión": "gcc8_4_0-esp-2021r2-patch5",
+          "sistemas": [
+            {
+              "anfitrión": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-linux-amd64.tar.gz ",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-linux-amd64.tar.gz",
+              "suma de control": "SHA-256:19c77bd91fefab7c8c40a6334f9b985e2d9a1c7fac6d424b692110930dd3682f",
+              "tamaño": "67849099"
+            },
+            {
+              "anfitrión": "aarch64-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-linux-arm64.tar.gz ",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-linux-arm64.tar.gz",
+              "suma de control": "SHA-256:bdcd24676ef2a65b670ca9e0a01768ece47f4dfcfb545a3307f76a054c33b522",
+              "tamaño": "64154532"
+            },
+            {
+              "anfitrión": "brazo-linux-gnueabihf",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-linux-armel.tar.gz ",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-linux-armel.tar.gz",
+              "suma de control": "SHA-256:b26723b6ce1c35b90f204eb39e5ab06a6f80fb7895f000e16b6962e4c176ae32",
+              "tamaño": "63448105"
+            },
+            {
+              "anfitrión": "i686-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-linux-i686.tar.gz ",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-linux-i686.tar.gz",
+              "suma de control": "SHA-256:da3b5c45e4997d14269df1814c92dd7004902bb810608341bc3819c3e506fa0b",
+              "tamaño": "69656104"
+            },
+            {
+              "anfitrión": "x86_64-apple-darwin",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-macos.tar.gz",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-macos.tar.gz",
+              "suma de control": "SHA-256:8eb63745b44083edef7cc6fdf3b06999f576b75134bc5e8b0ef881ca439b72d7",
+              "tamaño": "75154138"
+            },
+            {
+              "anfitrión": "i686-mingw32",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-win32.zip",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-win32.zip",
+              "suma de control": "SHA-256:c758062295804b082fbd77fcd59a356f62d4e76372aaa29589cc871603309cba",
+              "tamaño": "82338511"
+            },
+            {
+              "anfitrión": "x86_64-mingw32",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch5/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-win64.zip",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch5-win64.zip",
+              "suma de control": "SHA-256:1c1e168ff8bc460a9719f3b216d3c1125d29040389786d738244838499362c74",
+              "tamaño": "85579252"
+            }
+          ]
+        },
+        {
+          "nombre": "xtensa-esp32s2-elf-gcc",
+          "versión": "gcc8_4_0-esp-2021r2-patch3",
+          "sistemas": [
+            {
+              "anfitrión": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch3/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch3-linux-amd64.tar.gz ",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch3-linux-amd64.tar.gz",
+              "suma de control": "SHA-256:a32451a8edc1104b83cd9971178e61826e957d7db9ad9f81798a8969fd5a954e",
+              "tamaño": "90894048"
+            },
+            {
+              "anfitrión": "aarch64-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch3/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch3-linux-arm64.tar.gz ",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch3-linux-arm64.tar.gz",
+              "suma de comprobación": "SHA-256:2ac2c94a533a99a091d2159c678c611c712c494b5f68d97913254712047260f9",
+              "tamaño": "87178224"
+            },
+            {
+              "anfitrión": "brazo-linux-gnueabihf",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch3/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch3-linux-armel.tar.gz ",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch3-linux-armel.tar.gz",
+              "suma de control": "SHA-256:da49afee1e2e03eaab3f492718789442d33b562800e2a892679f95b50be24d14",
+              "tamaño": "86569314"
+            },
+            {
+              "anfitrión": "i686-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch3/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch3-linux-i686.tar.gz ",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch3-linux-i686.tar.gz",
+              "suma de control": "SHA-256:36d3c4990a5feb68aa8534463bc9e8ee367fe23886f78e1d726f4411c7571462",
+              "tamaño": "92884013"
+            },
+            {
+              "anfitrión": "x86_64-apple-darwin",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch3/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch3-macos.tar.gz",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch3-macos.tar.gz",
+              "suma de control": "SHA-256:de9af641678c93775e932ee5ec4f478f8925cfc1ebc22e41adc4fb85430a0c35",
+              "tamaño": "98224709"
+            },
+            {
+              "anfitrión": "i686-mingw32",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch3/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch3-win32.zip",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch3-win32.zip",
+              "suma de comprobación": "SHA-256:ccf08afe60046f87b0e81ca17dc5073eda68ab5e7522c163dd5b583d713b7b39",
+              "tamaño": "116924759"
+            },
+            {
+              "anfitrión": "x86_64-mingw32",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2-patch3/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch3-win64.zip",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-patch3-win64.zip",
+              "suma de comprobación": "SHA-256:37c91490b8fc75e638c23785e261eaf553be2dcd106cf6cff5b76981fa02955b",
+              "tamaño": "119912142"
+            }
+          ]
+        },
+        {
+          "nombre": "xtensa-esp32s2-elf-gcc",
+          "versión": "gcc8_4_0-esp-2021r2",
+          "sistemas": [
+            {
+              "anfitrión": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-linux-amd64.tar.gz",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-linux-amd64.tar.gz",
+              "suma de control": "SHA-256:a6e0947c92b823ca04f062522249f0a428357e0b056f1ff4c6bcabef83cf63a7",
+              "tamaño": "90901736"
+            },
+            {
+              "anfitrión": "aarch64-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-linux-arm64.tar.gz",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-linux-arm64.tar.gz",
+              "suma de control": "SHA-256:d2e5600fc194b508bd393b236a09fd62ed70afb6c36619d4b106b696a56ca66d",
+              "tamaño": "87176557"
+            },
+            {
+              "anfitrión": "brazo-linux-gnueabihf",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-linux-armel.tar.gz",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-linux-armel.tar.gz",
+              "suma de comprobación": "SHA-256:3fff4199e986dd74660f17ca27d9414cb98f1b911a7f13bb3b22e784cb1156cf",
+              "tamaño": "86581102"
+            },
+            {
+              "anfitrión": "i686-pc-linux-gnu",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-linux-i686.tar.gz",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-linux-i686.tar.gz",
+              "suma de control": "SHA-256:7732f9fb371d36b6b324820e300beecc33c2719921a61cf1cdb5bc625016b346",
+              "tamaño": "92875986"
+            },
+            {
+              "anfitrión": "x86_64-apple-darwin",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-macos.tar.gz",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-macos.tar.gz",
+              "suma de control": "SHA-256:e6dd32782fcff8f633299b97d1c671d6b6513390aca2ddbd7543c2cc62e72d7e",
+              "tamaño": "98212907"
+            },
+            {
+              "anfitrión": "i686-mingw32",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r2/xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-win32.zip",
+              "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2021r2-win32.zip",
+              "suma de comprobación": "SHA-256:41b917b35f6fbe7d30b7de91c32cf348c406acfa729a1eabc450d040dc46fbe2",
+              "tamaño": "113022469"
+            },
+            {
+     
